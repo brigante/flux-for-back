@@ -1,0 +1,130 @@
+##############################################
+#
+#          flux-for-back-0.4
+#
+#      "Fluxbox-Stuff for BackTrack"
+#
+#
+#            Carlo Velletri
+#       brigante@backtrack-linux.org
+#
+##############################################
+#
+#          file : README
+#
+##############################################
+#
+#         www.backtrack-linux.org
+#
+##############################################
+
+                  [ "flux-for-back-0.3" The Fluxbox-Stuff for BackTrack-Linux ]
+
+
+[ Author ]
+
+  * Carlo Velletri aka. 'brigante'
+ 
+     mail:      brigante@backtrack-linux.org
+     
+     web:       http://it.backtrack-linux.org/~brigante
+
+
+
+[ README ]
+
+[ Gr33tz & Credits]
+
+  * BackTrack Team/Community [ www.backtrack-linux.org ]
+  * Fluxbox Team/Community [ www.fluxbox.org ]
+  * BackTrack-Italia Team/Community [ www.backtrack.it ]  
+  * Fluxbox-Italia Team/Community [ www.fluxbox.it ]
+  
+  * Great Thanks go to: 
+	E.Acri, <crossbower@backtrack-linux.org>; T.Scattoni, <tino@backtrack.it> and A.Tumminello ,<fiocinino@backtrack.it> - [ from www.backtrack.it ] - && to: V.Coman <kerd@fluxbox.it> and ax <ax@fluxbox.it> - [ from www.fluxbox.it ] - && to: sickness [ from backtrack-linux forums ] for all testing and proposals.
+  * && to: 
+	Archangelamael for his support & suggestion in "all" Fluxbox-Stuff and the new icons-set, (on new version of BackTrack "flux-desktop").
+  
+  * Special thanks to Saints "SED" & "AWK"   =)
+
+  * Credits of various graphics items go to the respective authors of:
+ 
+	--> Oxygen-Black-Refit TEAM for Oxygen-Black-Refit icons-set
+	--> kmenu-dragon icons 
+	--> nuvoX iconset [ http://sites.google.com/site/xaviercorredorllano/nuvox ]
+	--> Fluxbox BackTrack Styles is based on: "centurion_colorless" styles and "zimmer_dark" [ http://tenr.de/ ], the LibtherBrushed theme, (on BT named MackTrack), [ tighelory.com ], and the "royal_red" AntiX theme is by impuwat [ http://antix.mepis.com/index.php/Main_Page ]
+        ---> Various black icons was downloaded from http://www.iconspedia.com and http://findicons.com
+
+
+
+[ Fluxbox Notes - from "Fluxbox-info" ]
+
+    web:        http://fluxbox.org/
+
+This copy of Fluxbox is compiled with:
+
+  + EWMH
+  + GNOME
+  + IMLIB2
+  + KDE
+  + NLS
+  + REMEMBER
+  + RENDER
+  + SHAPE
+  + SLIT
+  + TOOLBAR
+  + XFT
+  + XINERAMA
+  + XMB
+  + XP
+  - DEBUG
+
+
+[ Version's ]
+     
+     This Stuff was Packaged with:
+     
+  * BackTrack at version	4.R2
+  * Fluxbox at version		1.0.0
+  
+  * flux-for-back		0.3
+
+
+
+
+
+[ Important Notes ]
+
+              All this Stuff is writed for work on BackTrack-Linux, if you want to change 
+              somethings in this stuff you must know what are you doing.
+	      
+	      Please Remember:
+	      
+	      change only "one entry or one line of one file", 
+	      must corrupt all the stuff, for these reason, please:
+	      
+	      **************************************************************
+              if you don't want to break your stuff -> don't touch anything.
+              **************************************************************
+	      
+              thank you =)
+
+
+
+[ License ]
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 2 of the License, or
+  any later version.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program; if not, write to the Free Software
+  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+  
+  *** License in -->   /usr/share/flux-for-back/LICENSE
